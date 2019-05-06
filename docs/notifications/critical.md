@@ -15,7 +15,7 @@ automations:
     - service: notify.mobile_app_<your_device_id_here>
       data:
         title: "Wake up!"
-        message: "The house is on fire and the cat's stuck in the dried!"
+        message: "The house is on fire and the cat's stuck in the drier!"
         data:
           push:
             sound:
